@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">WeChatHelper</string>
+    <string name="auto_reply_description">微信消息自动回复</string>
+    <string name="AutoReplyAccessibilityService">微信自动回复服务</string>
+    <string name="auto_open_lucky_money_description">微信自动抢红包</string>
+    <string name="AutoOpenLuckyMoneyAccessibilityService">微信自动抢红包服务</string>
+    <string name="introduce">微信助手使用手册\n\n
+    \t\t本软件目前支持微信自动回复和自动抢红包功能，仅供学习使用，禁止商业用途，使用过程中出现任何问题，自行负责。\n
+        1、把程序安装到手机\n
+        2、打开设置\n
+        3、找到辅助功能并打开\n
+        4、开启微信助手相关服务\n\n
+        温馨提示：\n
+        \t\t因部分手机都是基于原生android深度定制，故上述开启步骤可能并不通用，请自行寻找开关。\n\n
+        小米手机MIUI8以上开启方法:\n
+        设置--->更多设置--->无障碍--->微信自动XX服务\n
+        小米手机MIUI8以下开启方法:\n
+        设置--->其他高级设置--->辅助功能--->微信自动XX服务\n\n
+        魅族手机开启方法:\n
+        设置--->辅助功能--->微信自动XX服务\n
+        \n\n\n\n\n\n
+        测试阶段功能不稳定，如有bug请email lygttpod@163.com 谢谢配合！
+    </string>
+</resources>
