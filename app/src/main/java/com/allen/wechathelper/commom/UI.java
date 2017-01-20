@@ -8,5 +8,5 @@ public class UI {
     public final static String EDITTEXT = "android.widget.EditText";
     public final static String LUCKY_MONEY_RECEIVE_UI = "com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyReceiveUI";
     public final static String LUCKY_MONEY_DETAIL_UI = "com.tencent.mm.plugin.luckymoney.ui.LuckyMoneyDetailUI";
-    public final static String OPEN_LUCKY_MONEY_BUTTON_ID = "com.tencent.mm:id/bag";
+    public final static String OPEN_LUCKY_MONEY_BUTTON_ID = "com.tencent.mm:id/be_";
 }
