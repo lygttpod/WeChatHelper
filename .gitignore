@@ -1,11 +1,10 @@
 *.iml
 .gradle
 /local.properties
-/.idea/workspace.xml
-/.idea/libraries
 .DS_Store
 /build
 /captures
+.externalNativeBuild
 ### Android template
 # Built application files
 *.apk
@@ -41,10 +40,8 @@ proguard/
 # Android Studio captures folder
 captures/
 
-# Intellij
 
-.idea/workspace.xml
-
+.idea/
 # Keystore files
-*.jks
-
+# Uncomment the following line if you do not want to check your keystore files in.
+#*.jks
